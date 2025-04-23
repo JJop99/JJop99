@@ -3,7 +3,7 @@
 Computer Engineering graduate from the University of Bologna (2018-2024) Italy, passionate about software development, robotics, and innovative technologies. Based in Wellington, New Zealand, I’m seeking opportunities as a software engineer, frontend developer, or DevOps engineer, leveraging my expertise in React.js, Next.js, and system design.
 
 ## 🚀 About Me
-- 🎓 **Bachelor’s in Computer Engineering** with a thesis on client/server rendering ([lucajop.it](https:lucajop.it)).
+- 🎓 **Bachelor’s in Computer Engineering** with a thesis on client/server rendering ([lucajop.it](https://lucajop.it)).
 - 💻 **Internship at Mumble S.R.L.** (2022): Built **PageSpeed Dashboard**, a React.js app for website performance analysis, earning a CEO recommendation for technical skills and teamwork.
 - 🤖 **Early Tech Enthusiast**: Developed Arduino prototypes and competed in national CanSat and European Asgard balloon projects during high school.
 - 🛠 **Hands-On Skills**: Skilled electrician, carpenter, and mason, with experience in smart home integrations and custom furniture design.
